@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Harshvardhan — a Mobile Application Developer with 1.5+ years of experience in Flutter. I enjoy building scalable, user-focused mobile apps and continuously improving my development skills.
+👋 Hi, I’m Harshvardhan — Mobile and software developer with over two years. I enjoy building scalable, user-focused mobile apps and continuously improving my development skills.
 
 
 ## 🌐 Socials:
